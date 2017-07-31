@@ -1,0 +1,7 @@
+wordpress/wp-content/uploads/
+.git/
+.gitignore
+.hg/
+.hgignore
+.svn/
+.htaccess
